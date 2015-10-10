@@ -1,0 +1,33 @@
+.container{
+-webkit-animation-name: sub-header;
+    -webkit-animation-duration: 3s;
+animation-name: sub-header;
+    animation-duration: 3s;
+    position: relative;
+}
+@-webkit-keyframes myfirst {
+            0% {
+                background: red;
+                left: -200px;
+                top: 0px;
+            }
+            100% {
+                background: red;
+                left: 0px;
+                top: 0px;
+            }
+        }
+        /* Standard syntax */
+        
+        @keyframes myfirst {
+            0% {
+                background: red;
+                left: -200px;
+                top: 0px;
+            }
+            100% {
+                background: red;
+                left: 0px;
+                top: 0px;
+            }
+        }

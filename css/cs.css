@@ -1,0 +1,22 @@
+.bs-example{
+margin: 10px;
+    border: 1px solid lightgray;
+}
+.button-drop{
+padding: 10px;
+}
+.form-input{
+padding: 5px;
+}
+.form-bottom-space{
+margin-bottom: 135px;
+}
+.hover{
+background: lightgray;
+}
+.bs-example .bottom{
+margin-top: 70px;
+}
+.dis{
+margin-top: 30px;
+}
